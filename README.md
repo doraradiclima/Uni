@@ -1,3 +1,4 @@
+#KASKADNA DEEKSCITACIJA
 U ovom završnom projektu modelirala sam kaskadnu deekscitaciju kvantnomehaničkog sustava kroz diskretna energijska stanja. 
 Cilj projekta bio je simulirati različite modele elektromagnetske deekscitacije kvantnih sustava, analizirati njihove statističke karakteristike 
 te usporediti kako izbor modela vjerojatnosti utječe na broj i energije emitiranih fotona.
